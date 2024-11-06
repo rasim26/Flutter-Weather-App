@@ -3,10 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
+This is a Weather App made with flutter. This App uses OpenWeatherApi for fetching the weather when we type a city name on search Bar.
+This is my First Project on Github.
 
-This project is a starting point for a Flutter application.
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-30 at 11 22 47](https://github.com/user-attachments/assets/d8b0b52e-fa16-4ffa-9ebf-598e0e402475)
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
